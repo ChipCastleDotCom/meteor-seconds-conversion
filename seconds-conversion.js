@@ -1,4 +1,4 @@
-secondsConversion = {
+SecondsConversion = {
   duration: function(seconds) {
     var converted = '0:00';
     try {
